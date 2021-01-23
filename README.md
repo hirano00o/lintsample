@@ -1,1 +1,1 @@
-# linter-sample
+# lintsample
